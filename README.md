@@ -1,5 +1,5 @@
 # RadioTweet
-## ほりちゃん用
+#### ほりちゃん用
 
 ```
 % mvn compile exec:java -Dexec.mainClass={twitter.Radio}
